@@ -106,14 +106,3 @@ Question:
     )
 
     return response["message"]["content"]
-
-
-# Simple test
-if __name__ == "__main__":
-
-    question = input("Ask a question: ")
-
-    answer = ask_question(question)
-
-    print("\nAnswer:")
-    print(answer)
