@@ -1,0 +1,5 @@
+ollama
+streamlit
+chromadb
+pinecone
+python-dotenv
